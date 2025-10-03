@@ -10,17 +10,21 @@ Setiap kelompok akan mengerjakan project pada **branch masing-masing** sesuai pe
 
 ## 👥 Daftar Kelompok
 ### Kelompok 1
-- Vicky Chandra
-- Mochamad Rizqi Erlangga
-- ⁠Muhammad Ziyad
-- Shinta Dwiapriati
-- Aulia Hana Sophiah
+| Nama | NPM |
+|------|--------------|
+| Vicky Chandra | |
+| Mochamad Rizqi Erlangga | |
+| ⁠Muhammad Ziyad | |
+| Shinta Dwiapriati | |
+| Aulia Hana Sophiah | |
 
 ### Kelompok 2
-- Aditya Fajri 
-- ⁠Rama Satriana
-- ⁠Rizki Putra
-- Muhammad Dennis
+| Nama | NPM |
+|------|--------------|
+| Aditya Fajri | |
+| ⁠Rama Satriana | |
+| ⁠Rizki Putra | |
+| Muhammad Dennis | |
 
 ### [Kelompok 3](https://github.com/aditdit11/4KA23-PTA2526/tree/Kelompok-3)
 | Nama | NPM |
@@ -31,18 +35,20 @@ Setiap kelompok akan mengerjakan project pada **branch masing-masing** sesuai pe
 | [Ziko Ardilay](https://github.com/zikoard) | 11122512 |
 
 ### Kelompok 4
-- Muhammad Rafah
-- Ferry Putra Pratama
-- Fadel Abdul Fiqri
-- Muhammad Alki Putera Ahsani
-- Bayu Ady Nugroho
+| Nama | NPM |
+|------|--------------|
+| Muhammad Rafah | |
+| Ferry Putra Pratama | |
+| Fadel Abdul Fiqri | |
+| Muhammad Alki Putera Ahsani | |
+| Bayu Ady Nugroho | |
 
 ### Kelompok 5
-- ⁠Naufal Athallah Gibran
-- Favian Gusti Santhika
-- ⁠Peter Daniel Jeremy
-- Raden Cahya Kartika 
-- Aqilla Baidhar Putra  
+| ⁠Naufal Athallah Gibran | |
+| Favian Gusti Santhika | |
+| ⁠Peter Daniel Jeremy | |
+| Raden Cahya Kartika | |
+| Aqilla Baidhar Putra | |  
 
 ## 🚀 Cara Akses Project
 1. Pilih branch sesuai kelompok di tab **branches**.  
