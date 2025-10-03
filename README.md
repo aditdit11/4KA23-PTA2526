@@ -12,19 +12,19 @@ Setiap kelompok akan mengerjakan project pada **branch masing-masing** sesuai pe
 ### Kelompok 1
 | Nama | NPM |
 |------|--------------|
-| Vicky Chandra | |
-| Mochamad Rizqi Erlangga | |
-| ⁠Muhammad Ziyad | |
-| Shinta Dwiapriati | |
-| Aulia Hana Sophiah | |
+| Vicky Chandra | 10122012 |
+| Mochamad Rizqi Erlangga | 10122772 |
+| ⁠Muhammad Ziyad | 11122021 |
+| Shinta Dwiapriati | 11122381 |
+| Aulia Hana Sophiah | 10122244 |
 
 ### Kelompok 2
 | Nama | NPM |
 |------|--------------|
-| Aditya Fajri | |
-| ⁠Rama Satriana | |
-| ⁠Rizki Putra | |
-| Muhammad Dennis | |
+| Aditya Fajri | 10122054 |
+| ⁠Rama Satriana | 11122198 |
+| ⁠Rizki Putra | 11122295 |
+| Muhammad Dennis | 10122876 |
 
 ### [Kelompok 3](https://github.com/aditdit11/4KA23-PTA2526/tree/Kelompok-3)
 | Nama | NPM |
@@ -37,18 +37,20 @@ Setiap kelompok akan mengerjakan project pada **branch masing-masing** sesuai pe
 ### Kelompok 4
 | Nama | NPM |
 |------|--------------|
-| Muhammad Rafah | |
-| Ferry Putra Pratama | |
-| Fadel Abdul Fiqri | |
-| Muhammad Alki Putera Ahsani | |
-| Bayu Ady Nugroho | |
+| Muhammad Rafah | 10122960 |
+| Ferry Putra Pratama | 10122509 |
+| Fadel Abdul Fiqri | 10122441 |
+| Muhammad Alki Putera Ahsani | 10122841 |
+| Bayu Ady Nugroho | 10122272 |
 
 ### Kelompok 5
-| ⁠Naufal Athallah Gibran | |
-| Favian Gusti Santhika | |
-| ⁠Peter Daniel Jeremy | |
-| Raden Cahya Kartika | |
-| Aqilla Baidhar Putra | |  
+| Nama | NPM |
+|------|--------------|
+| ⁠Naufal Athallah Gibran | 11122065 |
+| Favian Gusti Santhika | 10122001 |
+| ⁠Peter Daniel Jeremy | 11122517 |
+| Raden Cahya Kartika | 11122130 |
+| Aqilla Baidhar Putra | 10122202 |  
 
 ## 🚀 Cara Akses Project
 1. Pilih branch sesuai kelompok di tab **branches**.  
