@@ -55,10 +55,10 @@ Memberikan sistem sederhana namun efektif agar:
 ## 👥 Tim Kelompok 3
 | Nama | NPM |
 |------|--------------|
-| [Desta Aldi Fachri Wibowo](https://github.com/sickpeoples) (10122355) | |
-| [Didik Wahyudi](https://github.com/zysyper) (10122380) | |
-| [Maulidina Rahmawati](https://github.com/maaulidna) (10122752) | |
-| [Ziko Ardilay](https://github.com/zikoard) (11122512) | |
+| [Desta Aldi Fachri Wibowo](https://github.com/sickpeoples) | 10122355 |
+| [Didik Wahyudi](https://github.com/zysyper) | 10122380 |
+| [Maulidina Rahmawati](https://github.com/maaulidna) | 10122752 |
+| [Ziko Ardilay](https://github.com/zikoard) | 11122512 |
 
 
 ✨ Dengan solusi ini, diharapkan toko plakat dapat meningkatkan transparansi, mengurangi miskomunikasi, dan membuat pelanggan lebih puas.
