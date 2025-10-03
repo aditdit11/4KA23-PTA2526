@@ -25,14 +25,15 @@ Memberikan sistem sederhana namun efektif agar:
    - Pelanggan hanya perlu memasukkan kode pesanan ke form/fitur pencarian.  
    - Spreadsheet akan menampilkan status terbaru.
 
+```
 ## 📂 Struktur Repo
 /kelompok3-branch
 │
-├── docs/                # Dokumentasi & panduan penggunaan
-├── src/                 # Script macros untuk Google Spreadsheet
-├── assets/              # Gambar ilustrasi / flow chart
-└── README.md            # Dokumentasi utama
-
+├── docs/                         # Dokumentasi & panduan penggunaan
+├── src/                          # Script macros untuk Google Spreadsheet
+├── assets/                       # Gambar ilustrasi / flow chart
+└── README-kelompok3.md           # Dokumentasi utama
+```
 
 
 ## 🚀 Cara Menggunakan
@@ -60,10 +61,4 @@ Memberikan sistem sederhana namun efektif agar:
 | Maulidina Rahmawati | <a href="https://github.com/maaulidna"><img src="https://github.com/maaulidna.png" width="60" style="border-radius:50%"/> @maaulidna</a> |
 | Ziko Ardilay | <a href="https://github.com/zikoard"><img src="https://github.com/zikoard.png" width="60" style="border-radius:50%"/> @zikoard</a> |
 
-
----
-
 ✨ Dengan solusi ini, diharapkan toko plakat dapat meningkatkan transparansi, mengurangi miskomunikasi, dan membuat pelanggan lebih puas.
-
-```
-
